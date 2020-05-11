@@ -1,2 +1,3 @@
 # First-rep
-just another repository
+hi humans
+am Kaburu and data and science is my middle name
